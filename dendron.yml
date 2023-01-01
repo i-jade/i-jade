@@ -104,5 +104,4 @@ publishing:
   enableTaskNotes: true
   enablePrettyLinks: true
   searchMode: search
-  assetsPrefix: /blog
   siteUrl: https://i-jade.github.io
