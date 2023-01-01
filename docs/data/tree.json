@@ -1,0 +1,513 @@
+{
+  "roots": [
+    {
+      "key": "6dtg3w55w1x7r0sawmob7lv",
+      "title": "2022-12-05复盘",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Notes",
+      "children": [
+        {
+          "key": "uc85xcsu2pp4avkija9z1nu",
+          "title": "Journal",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": [
+            {
+              "key": "u1e83pjhmsirjqy15zph2x3",
+              "title": "2022",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": [
+                {
+                  "key": "cz32o4zc4prgyn9uatd0tkm",
+                  "title": "12",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": [
+                    {
+                      "key": "vscrna9w8yqo753gkj8tc1j",
+                      "title": "2022-12-05 复盘",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "gei43ltk86qc5x36ybl97gy",
+                      "title": "2022-12-06 复盘",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "pq7u43qhhc53aeovwrw65r7",
+                      "title": "2022-12-07 记录",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "ko8ha1ux8w1mlx5368xgesw",
+                      "title": "2022-12-08",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "6nji5m7bw1b9epg4gwl6kun",
+                      "title": "2022-12-12",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "ptlevyot41jcv2vnoo67ru6",
+                      "title": "2022-12-13 复盘",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "kqs0af6we8e23isxr6jrzqu",
+                      "title": "2022-12-14 复盘",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "5yr8v9be5ihong1z4408mwm",
+                      "title": "2022-12-15",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "nua0qywyx738cyn5vyzd1ij",
+                      "title": "2022-12-28 复盘",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "2nrxqcnxrytwgvmwbgn08z1",
+      "title": "Meet",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Notes",
+      "children": [
+        {
+          "key": "fbu1ctov63g67dvr0lm3hvw",
+          "title": "2023",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": [
+            {
+              "key": "rmd8p5rfmfnxruuf8psbjgy",
+              "title": "01",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": [
+                {
+                  "key": "yyzu4epp61m6hu9xccbv471",
+                  "title": "01",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "cjgvkorp7u78p38mx3ptzlo",
+      "title": "Project",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Notes",
+      "children": [
+        {
+          "key": "9ahh3yuihsdl8rq25hmuknv",
+          "title": "Dendron",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": [
+            {
+              "key": "ew1y39raco2onpjghz4cyd6",
+              "title": "开始",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": [
+                {
+                  "key": "p4zbmm158wz71vjar8c2r7t",
+                  "title": "UI布局",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": []
+                },
+                {
+                  "key": "4kitkynpy8iy70kmjoogtu0",
+                  "title": "初见",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": []
+                },
+                {
+                  "key": "v2xmb2b814sxkvf0pzkbxby",
+                  "title": "记笔记",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "i3e1d0ktq2dfdljize5z71b",
+          "title": "Zxauto",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": [
+            {
+              "key": "ajp89swxud56blm0jwx70yx",
+              "title": "Zn",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": [
+                {
+                  "key": "vgw8mr67vwz72517nw0ab4r",
+                  "title": "项目基本情况",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": []
+                },
+                {
+                  "key": "h0v0ieufwt2nnrdysdk3zn2",
+                  "title": "Grace",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": [
+                    {
+                      "key": "pe8nsmqqrjumrgm24drrofu",
+                      "title": "项目上使用功能",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rftqqbd4xpiz81i4lrbbku3",
+      "title": "Self",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Notes",
+      "children": [
+        {
+          "key": "ngsh6hp6ishxm7o1yfh80if",
+          "title": "Grace",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": [
+            {
+              "key": "n4emo8ul68y0m0bnhglpnel",
+              "title": "Habit",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": [
+                {
+                  "key": "16fokn4d38r5b02vin25qlu",
+                  "title": "Some Habit",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "8fzja4p9pii2luahhr9lohl",
+          "title": "Reading",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": [
+            {
+              "key": "yrdpgp5sk4yc9pytwa43f95",
+              "title": "Book",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": [
+                {
+                  "key": "ek48pde2y7ynapfhuxjzu8z",
+                  "title": "番茄工作法",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ne4vcuzu8sjot0bt9y89gwk",
+              "title": "Grace",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": [
+                {
+                  "key": "6h9wurbcjpnv72z6wj54u94",
+                  "title": "Data Structure",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": [
+                    {
+                      "key": "3wmr153f7caq2fnl0daq171",
+                      "title": "Queue",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    },
+                    {
+                      "key": "1wo2zr6mdzeiu8peydzcfef",
+                      "title": "Recursion",
+                      "icon": "plusOutlined",
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": [
+                        {
+                          "key": "ys9a3w4bzvrzwrju7ps96um",
+                          "title": "Recursion",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Notes",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "key": "xh52bggd05ofgonrdag8z5u",
+                      "title": "Stack",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "3ybkk95dck4us6vcpa9q4ch",
+                  "title": "Source Code",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Notes",
+                  "children": [
+                    {
+                      "key": "vaudcf48opnc2brm06ci721",
+                      "title": "How To Read Source Code",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Notes",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "2opjx4q1l5z5nlv7gg47cx4",
+      "title": "Template",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Notes",
+      "children": [
+        {
+          "key": "n93lnbw2233nk050k590t18",
+          "title": "Dialy Recheck",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": [
+            {
+              "key": "lcsnvg8cic5pfj9soqkk8eu",
+              "title": "Dialy Recheck",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Notes",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "r8yinu5l64i6l4fswr5otwm",
+      "title": "Templates",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Notes",
+      "children": [
+        {
+          "key": "2dj6ilh3gqeyk1wceyyvkh6",
+          "title": "Meeting Notes Template",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Notes",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "6dtg3w55w1x7r0sawmob7lv": null,
+    "uc85xcsu2pp4avkija9z1nu": "6dtg3w55w1x7r0sawmob7lv",
+    "u1e83pjhmsirjqy15zph2x3": "uc85xcsu2pp4avkija9z1nu",
+    "cz32o4zc4prgyn9uatd0tkm": "u1e83pjhmsirjqy15zph2x3",
+    "vscrna9w8yqo753gkj8tc1j": "cz32o4zc4prgyn9uatd0tkm",
+    "gei43ltk86qc5x36ybl97gy": "cz32o4zc4prgyn9uatd0tkm",
+    "pq7u43qhhc53aeovwrw65r7": "cz32o4zc4prgyn9uatd0tkm",
+    "ko8ha1ux8w1mlx5368xgesw": "cz32o4zc4prgyn9uatd0tkm",
+    "6nji5m7bw1b9epg4gwl6kun": "cz32o4zc4prgyn9uatd0tkm",
+    "ptlevyot41jcv2vnoo67ru6": "cz32o4zc4prgyn9uatd0tkm",
+    "kqs0af6we8e23isxr6jrzqu": "cz32o4zc4prgyn9uatd0tkm",
+    "5yr8v9be5ihong1z4408mwm": "cz32o4zc4prgyn9uatd0tkm",
+    "nua0qywyx738cyn5vyzd1ij": "cz32o4zc4prgyn9uatd0tkm",
+    "2nrxqcnxrytwgvmwbgn08z1": null,
+    "fbu1ctov63g67dvr0lm3hvw": "2nrxqcnxrytwgvmwbgn08z1",
+    "rmd8p5rfmfnxruuf8psbjgy": "fbu1ctov63g67dvr0lm3hvw",
+    "yyzu4epp61m6hu9xccbv471": "rmd8p5rfmfnxruuf8psbjgy",
+    "cjgvkorp7u78p38mx3ptzlo": null,
+    "9ahh3yuihsdl8rq25hmuknv": "cjgvkorp7u78p38mx3ptzlo",
+    "ew1y39raco2onpjghz4cyd6": "9ahh3yuihsdl8rq25hmuknv",
+    "p4zbmm158wz71vjar8c2r7t": "ew1y39raco2onpjghz4cyd6",
+    "4kitkynpy8iy70kmjoogtu0": "ew1y39raco2onpjghz4cyd6",
+    "v2xmb2b814sxkvf0pzkbxby": "ew1y39raco2onpjghz4cyd6",
+    "i3e1d0ktq2dfdljize5z71b": "cjgvkorp7u78p38mx3ptzlo",
+    "ajp89swxud56blm0jwx70yx": "i3e1d0ktq2dfdljize5z71b",
+    "vgw8mr67vwz72517nw0ab4r": "ajp89swxud56blm0jwx70yx",
+    "h0v0ieufwt2nnrdysdk3zn2": "ajp89swxud56blm0jwx70yx",
+    "pe8nsmqqrjumrgm24drrofu": "h0v0ieufwt2nnrdysdk3zn2",
+    "rftqqbd4xpiz81i4lrbbku3": null,
+    "ngsh6hp6ishxm7o1yfh80if": "rftqqbd4xpiz81i4lrbbku3",
+    "n4emo8ul68y0m0bnhglpnel": "ngsh6hp6ishxm7o1yfh80if",
+    "16fokn4d38r5b02vin25qlu": "n4emo8ul68y0m0bnhglpnel",
+    "8fzja4p9pii2luahhr9lohl": "rftqqbd4xpiz81i4lrbbku3",
+    "yrdpgp5sk4yc9pytwa43f95": "8fzja4p9pii2luahhr9lohl",
+    "ek48pde2y7ynapfhuxjzu8z": "yrdpgp5sk4yc9pytwa43f95",
+    "ne4vcuzu8sjot0bt9y89gwk": "8fzja4p9pii2luahhr9lohl",
+    "6h9wurbcjpnv72z6wj54u94": "ne4vcuzu8sjot0bt9y89gwk",
+    "3wmr153f7caq2fnl0daq171": "6h9wurbcjpnv72z6wj54u94",
+    "1wo2zr6mdzeiu8peydzcfef": "6h9wurbcjpnv72z6wj54u94",
+    "ys9a3w4bzvrzwrju7ps96um": "1wo2zr6mdzeiu8peydzcfef",
+    "xh52bggd05ofgonrdag8z5u": "6h9wurbcjpnv72z6wj54u94",
+    "3ybkk95dck4us6vcpa9q4ch": "ne4vcuzu8sjot0bt9y89gwk",
+    "vaudcf48opnc2brm06ci721": "3ybkk95dck4us6vcpa9q4ch",
+    "2opjx4q1l5z5nlv7gg47cx4": null,
+    "n93lnbw2233nk050k590t18": "2opjx4q1l5z5nlv7gg47cx4",
+    "lcsnvg8cic5pfj9soqkk8eu": "n93lnbw2233nk050k590t18",
+    "r8yinu5l64i6l4fswr5otwm": null,
+    "2dj6ilh3gqeyk1wceyyvkh6": "r8yinu5l64i6l4fswr5otwm"
+  },
+  "notesLabelById": {
+    "6dtg3w55w1x7r0sawmob7lv": "2022-12-05复盘",
+    "uc85xcsu2pp4avkija9z1nu": "Journal",
+    "u1e83pjhmsirjqy15zph2x3": "2022",
+    "cz32o4zc4prgyn9uatd0tkm": "12",
+    "vscrna9w8yqo753gkj8tc1j": "2022-12-05 复盘",
+    "gei43ltk86qc5x36ybl97gy": "2022-12-06 复盘",
+    "pq7u43qhhc53aeovwrw65r7": "2022-12-07 记录",
+    "ko8ha1ux8w1mlx5368xgesw": "2022-12-08",
+    "6nji5m7bw1b9epg4gwl6kun": "2022-12-12",
+    "ptlevyot41jcv2vnoo67ru6": "2022-12-13 复盘",
+    "kqs0af6we8e23isxr6jrzqu": "2022-12-14 复盘",
+    "5yr8v9be5ihong1z4408mwm": "2022-12-15",
+    "nua0qywyx738cyn5vyzd1ij": "2022-12-28 复盘",
+    "2nrxqcnxrytwgvmwbgn08z1": "Meet",
+    "fbu1ctov63g67dvr0lm3hvw": "2023",
+    "rmd8p5rfmfnxruuf8psbjgy": "01",
+    "yyzu4epp61m6hu9xccbv471": "01",
+    "cjgvkorp7u78p38mx3ptzlo": "Project",
+    "9ahh3yuihsdl8rq25hmuknv": "Dendron",
+    "ew1y39raco2onpjghz4cyd6": "开始",
+    "p4zbmm158wz71vjar8c2r7t": "UI布局",
+    "4kitkynpy8iy70kmjoogtu0": "初见",
+    "v2xmb2b814sxkvf0pzkbxby": "记笔记",
+    "i3e1d0ktq2dfdljize5z71b": "Zxauto",
+    "ajp89swxud56blm0jwx70yx": "Zn",
+    "vgw8mr67vwz72517nw0ab4r": "项目基本情况",
+    "h0v0ieufwt2nnrdysdk3zn2": "Grace",
+    "pe8nsmqqrjumrgm24drrofu": "项目上使用功能",
+    "rftqqbd4xpiz81i4lrbbku3": "Self",
+    "ngsh6hp6ishxm7o1yfh80if": "Grace",
+    "n4emo8ul68y0m0bnhglpnel": "Habit",
+    "16fokn4d38r5b02vin25qlu": "Some Habit",
+    "8fzja4p9pii2luahhr9lohl": "Reading",
+    "yrdpgp5sk4yc9pytwa43f95": "Book",
+    "ek48pde2y7ynapfhuxjzu8z": "番茄工作法",
+    "ne4vcuzu8sjot0bt9y89gwk": "Grace",
+    "6h9wurbcjpnv72z6wj54u94": "Data Structure",
+    "3wmr153f7caq2fnl0daq171": "Queue",
+    "1wo2zr6mdzeiu8peydzcfef": "Recursion",
+    "ys9a3w4bzvrzwrju7ps96um": "Recursion",
+    "xh52bggd05ofgonrdag8z5u": "Stack",
+    "3ybkk95dck4us6vcpa9q4ch": "Source Code",
+    "vaudcf48opnc2brm06ci721": "How To Read Source Code",
+    "2opjx4q1l5z5nlv7gg47cx4": "Template",
+    "n93lnbw2233nk050k590t18": "Dialy Recheck",
+    "lcsnvg8cic5pfj9soqkk8eu": "Dialy Recheck",
+    "r8yinu5l64i6l4fswr5otwm": "Templates",
+    "2dj6ilh3gqeyk1wceyyvkh6": "Meeting Notes Template"
+  }
+}
